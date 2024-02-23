@@ -21,6 +21,7 @@
             <textarea name="message" id="message" cols="30" rows="10"></textarea>
         </div>
         <button type="submit" name="send">Send email</button>
+        <h1>Good Luck</h1>
     </form>
 </body>
 </html>
